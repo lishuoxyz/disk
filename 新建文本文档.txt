@@ -1,0 +1,1 @@
+https://sub1.smallstrawberry.com/api/v1/client/subscribe?token=e0e0de47f7ec53c5204feec2a59e5b42
